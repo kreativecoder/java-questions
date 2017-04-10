@@ -1,4 +1,3 @@
-/* Copyright © 2015 Oracle and/or its affiliates. All rights reserved. */
 package com.github.tayelolu101.questions;
 
 import java.util.Optional;
