@@ -1,0 +1,1 @@
+java -jar target/questions-app-1.0-SNAPSHOT-jar-with-dependencies.jar target/*.war
